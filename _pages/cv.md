@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download a more complete PDF here](http://mrhheffernan.github.io/files/Heffernan_Matthew_CV.pdf)
+[Download a more complete PDF here](http://mrhheffernan.github.io/academic-site/files/Heffernan_Matthew_CV.pdf)
 
 Professional Experience 
 ======
