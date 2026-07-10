@@ -13,9 +13,9 @@ title                    : "Matthew Heffernan, PhD"
 title_separator          : "-"
 name                     : &name "Matthew Heffernan, PhD"
 description              : &description "AI Verification @ Zoox | Nuclear Theory PhD"
-url                      : https://mrhheffernan.github.io/academic-site/ # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
-                                                           # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+url                      : https://mrhheffernan.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+baseurl                  : /academic-site # the subpath of your site, e.g. "/blog"
 repository               : "mrhheffernan/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
